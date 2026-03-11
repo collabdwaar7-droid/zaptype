@@ -20,6 +20,7 @@ https://zaptype.in
 <td align="center">
 <img src="home.png" width="450">
 </td>
+
 <td align="center">
 <img src="speed-test.png" width="450">
 </td>
@@ -29,8 +30,8 @@ https://zaptype.in
 <td align="center">
 <img src="dashboard.png" width="450">
 </td>
-
----
+</tr>
+</table>
 
 # 🚀 Features
 
