@@ -27,9 +27,6 @@ https://zaptype.in
 <img src="dashboard.png" width="900">
 </p>
 
-<p align="center">
-<img src="games.png" width="900">
-</p>
 ---
 
 # 🚀 Features
