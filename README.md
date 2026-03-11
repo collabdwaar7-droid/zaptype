@@ -15,17 +15,20 @@ https://zaptype.in
 
 ## 📸 Preview
 
-<p align="center">
-<img src="home.png" width="900">
-</p>
+<table>
+<tr>
+<td align="center">
+<img src="home.png" width="450">
+</td>
+<td align="center">
+<img src="speed-test.png" width="450">
+</td>
+</tr>
 
-<p align="center">
-<img src="speed-test.png" width="900">
-</p>
-
-<p align="center">
-<img src="dashboard.png" width="900">
-</p>
+<tr>
+<td align="center">
+<img src="dashboard.png" width="450">
+</td>
 
 ---
 
