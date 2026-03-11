@@ -58,3 +58,13 @@ All in one place.
 ## 🌍 Try ZapType
 
 👉 https://zaptype.in
+
+---
+
+## ⭐ Support ZapType
+
+If you like ZapType, please consider starring this repository.
+
+It helps the project reach more developers and typing enthusiasts.
+
+🌐 https://zaptype.in
