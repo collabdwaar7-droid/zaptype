@@ -13,10 +13,23 @@ https://zaptype.in
 
 ---
 
-# 📸 Preview
+## 📸 Preview
 
-![ZapType](home.png)
+<p align="center">
+<img src="home.png" width="900">
+</p>
 
+<p align="center">
+<img src="speed-test.png" width="900">
+</p>
+
+<p align="center">
+<img src="dashboard.png" width="900">
+</p>
+
+<p align="center">
+<img src="games.png" width="900">
+</p>
 ---
 
 # 🚀 Features
