@@ -7,6 +7,10 @@ https://zaptype.in
 
 ---
 
+## 📸 Preview
+
+![ZapType](home.png)
+
 ## 🚀 Features
 
 * Typing Speed Test
