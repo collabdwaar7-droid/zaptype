@@ -41,6 +41,15 @@ https://zaptype.in
 </tr>
 </table>
 
+## ⚡ Highlights
+
+• 600+ structured typing lessons  
+• Real-time WPM and accuracy tracking  
+• Interactive typing games  
+• Detailed progress dashboard  
+• Keyboard heatmap analysis  
+• 100% free and no login required
+
 # 🚀 Features
 
 ZapType combines learning, testing, and analytics in one place.
