@@ -1,70 +1,107 @@
 # ZapType ⚡
 
-Modern typing speed test platform with lessons, games, and analytics.
+![Typing Platform](https://img.shields.io/badge/Typing-Speed%20Test-blue?style=for-the-badge)
+![Built Solo](https://img.shields.io/badge/Built%20by-Indie%20Developer-orange?style=for-the-badge)
+![Website](https://img.shields.io/badge/Live-ZapType-green?style=for-the-badge)
 
-🌐 **Live Website**
+Modern **typing speed test platform** with lessons, games, and analytics.
+
+ZapType is designed to make typing practice **engaging, interactive, and measurable**.
+
+🌐 **Live Website**  
 https://zaptype.in
 
 ---
 
-## 📸 Preview
+# 📸 Preview
 
 ![ZapType](home.png)
 
-## 🚀 Features
+---
 
-* Typing Speed Test
-* Touch Typing Lessons
-* Alphabet Typing Test
-* Typing Speed Practice
-* Typing Games
-* Daily Challenge
-* Custom Text
-* Progress Dashboard
-* Accuracy Tracking
-* Keyboard Heatmap
+# 🚀 Features
+
+ZapType combines learning, testing, and analytics in one place.
+
+### ⌨️ Typing Tools
+- Typing Speed Test
+- Typing Speed Practice
+- Custom Text Typing
+- Alphabet Typing Test
+
+### 🎯 Learning System
+- Structured Touch Typing Lessons
+- Accuracy Training
+- Progressive Skill Development
+
+### 🎮 Gamified Practice
+- Typing Games
+- Daily Typing Challenges
+- Interactive Practice Modes
+
+### 📊 Analytics & Tracking
+- Progress Dashboard
+- WPM Analytics
+- Accuracy Tracking
+- Keyboard Heatmap
 
 ---
 
-## 📊 Why ZapType?
+# 📊 Why ZapType?
 
-Most typing websites are outdated and limited.
-ZapType combines **learning + testing + gaming + analytics** into one modern platform.
+Most typing websites are **outdated or limited**.
 
-You can:
+ZapType was built to combine **learning + practice + analytics + gamification** into one modern platform.
 
-* Practice touch typing
-* Test your speed
-* Track your progress
-* Improve accuracy
-* Play typing games
+With ZapType you can:
 
-All in one place.
+✔ Improve typing speed  
+✔ Practice touch typing effectively  
+✔ Track progress with real analytics  
+✔ Identify weak keys using heatmaps  
+✔ Make typing practice engaging
 
----
-
-## 🧪 Tools Available
-
-* Speed Test
-* Typing Practice
-* Touch Typing Lessons
-* Alphabet Test
-* Typing Games
-* Progress Dashboard
-* Custom Text Practice
+All in **one unified platform**.
 
 ---
 
-## 🌍 Try ZapType
+# 🧪 Tools Available
+
+ZapType provides multiple tools to improve typing performance:
+
+- Speed Test
+- Typing Practice
+- Touch Typing Lessons
+- Alphabet Typing Test
+- Typing Games
+- Progress Dashboard
+- Custom Text Practice
+
+---
+
+# 👨‍💻 Built by an Indie Developer
+
+ZapType is a **solo indie developer project** built to improve how people learn and practice typing online.
+
+No team.  
+No funding.  
+Just continuous improvement and experimentation.
+
+---
+
+# 🌍 Try ZapType
+
+Experience the platform here:
 
 👉 https://zaptype.in
 
 ---
 
-## ⭐ Support ZapType
+# ⭐ Support ZapType
 
-If you like ZapType, please consider starring this repository.
+If you like ZapType, please consider **starring this repository**.
 
-It helps the project reach more developers and typing enthusiasts.
+Your support helps the project reach more developers and typing enthusiasts.
 
+⭐ Star the repo  
 🌐 https://zaptype.in
