@@ -9,7 +9,7 @@ https://zaptype.in
 
 ## 📸 Preview
 
-![ZapType](screenshots/home.png)
+![ZapType](home.png)
 
 ## 🚀 Features
 
