@@ -18,24 +18,24 @@ https://zaptype.in
 <table>
 <tr>
 <td align="center">
-<img src="home.png" width="450"><br>
+<img src="home.png" width="500"><br>
 <b>Homepage</b>
 </td>
 
 <td align="center">
-<img src="speed-test.png" width="450"><br>
+<img src="speed-test.png" width="500"><br>
 <b>Typing Speed Test</b>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="dashboard.png" width="450"><br>
+<img src="dashboard.png" width="500"><br>
 <b>Progress Dashboard</b>
 </td>
 
 <td align="center">
-<img src="alphabet-test.png" width="450"><br>
+<img src="alphabet-test.png" width="500"><br>
 <b>Alphabet Typing Test</b>
 </td>
 </tr>
